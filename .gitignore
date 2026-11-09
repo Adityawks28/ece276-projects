@@ -48,6 +48,11 @@ ECE276A_PR1/code/*
 !ECE276A_PR1/ieeeconf.cls
 !ECE276A_PR1/main_revised.tex
 
-# ECE276B Project 1: publish only our own code (starter code, maps, GIFs stay local)
+# ECE276B Project 1: publish only our own code, README and result GIFs (starter code and maps stay local)
 ECE276B_PR1/*
 !ECE276B_PR1/doorkey.py
+!ECE276B_PR1/README.md
+!ECE276B_PR1/gif/
+ECE276B_PR1/gif/*
+!ECE276B_PR1/gif/partA/
+!ECE276B_PR1/gif/partB/

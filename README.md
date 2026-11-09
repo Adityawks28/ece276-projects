@@ -26,7 +26,8 @@ Projects 1 and 2 are included. Project 3 will be added after it is completed.
 
 ## ECE 276B: Planning & Learning
 
-1. **Project 1: Dynamic Programming (in progress)** (`ECE276B_PR1/`)
+1. **Project 1: Dynamic Programming** ([`ECE276B_PR1/`](ECE276B_PR1/))
    Door & Key navigation in MiniGrid, formulated as a Markov Decision Process
    and solved with backward dynamic programming, for 7 known maps and one
-   policy shared by 36 random maps.
+   policy shared by 36 random maps. Results and GIFs are in the project README;
+   the report is in progress.
